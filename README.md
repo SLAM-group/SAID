@@ -14,7 +14,7 @@ For SAID_quora dataset, you can download from [here](https://drive.google.com/dr
 We test three different detectors, and show the results below:
 
 <p align="center" width="100%">
-<a ><img src="assets/overview.png" alt="Ada-Instruct" style="width: 100%; margin: auto;"></a>
+<a ><img src="assets/table 5.png" alt="Ada-Instruct" style="width: 100%; margin: auto;"></a>
 </p>
 
 ### Performance of Different AI Detectors on SAID and HC3. 
