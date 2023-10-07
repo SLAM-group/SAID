@@ -1,5 +1,5 @@
 # SAID
-A Benchmark For Social Media AI Detection [Who Said That? Benchmarking Social Media
+A Benchmark For Social Media AI Detection. [Who Said That? Benchmarking Social Media
 AI Detection](https://openreview.net/attachment?id=THtX863Io2&name=pdf)
 
 We create datasets for social media AI detection, and upload the train and test set for this repo. The train and test dataset are composed from detector features.
