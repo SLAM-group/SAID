@@ -17,15 +17,6 @@ We test three different detectors, and show the results below:
 <a ><img src="assets/table 5.png" alt="Ada-Instruct" style="width: 100%; margin: auto;"></a>
 </p>
 
-### Performance of Different AI Detectors on SAID and HC3. 
-
-|               | SAID-zhihu |           |        |            | SAID-quora |           |        |             | HC3  |
-|---------------|:----------:|:---------:|:------:|:----------:|:----------:|:---------:|:------:|:-----------:|------|
-|               | accuracy   | precision | recall | f1         | accuracy   | precision | recall | f1          | f1   |
-| HelloSimpleAI | 96.1       | 97.6      | 96.4   | 96.7(+0.3) | 84.4       | 84.1      | 79.8   | 81.9(-14.5) | 96.4 |
-| GPT-Zero      |      -     |     -     |    -   |      -     | 89.1       | 97        | 81.3   | 88.5        |   -  |
-| MPU           | 93.9       | 97.1      | 92.3   | 94.7(-3.7) | 89.3       | 96        | 74.7   | 84(-14.4)   | 98.4 |
-
 ## Citation
 
 If you find this codebase useful in your research, please cite the following paper.
