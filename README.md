@@ -2,12 +2,14 @@
 
 # <div align="center">A Benchmark For Social Media AI Detection. </div>
 
-
+<p align="center" width="100%">
+<a ><img src="assets/SAID_logo.png" alt="SAID-logo" style="width: 100%; margin: auto;"></a>
+</p>
 
 This is the repository for [Who Said That? Benchmarking Social Media
 AI Detection](https://openreview.net/attachment?id=THtX863Io2&name=pdf)
 
-
+## <a id="overview"></a>Overview
 
 We create datasets for social media AI detection, and upload the train and test set for this repo. The train and test dataset are composed from detector features.
 
