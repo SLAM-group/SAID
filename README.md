@@ -3,7 +3,7 @@
 # <div align="center">A Benchmark For Social Media AI Detection. </div>
 
 <p align="center" width="100%">
-<a ><img src="assets/said_logo.png" alt="SAID-logo" style="width: 100%; margin: auto;"></a>
+<a ><img src="assets/said_logo.png" alt="SAID-logo" style="width: 50%; margin: auto;"></a>
 </p>
 
 This is the repository for [Who Said That? Benchmarking Social Media
