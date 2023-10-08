@@ -2,7 +2,7 @@
 
 # <div align="center">A Benchmark For Social Media AI Detection. </div>
 
-<p align="center" width="100%">
+<p align="center" width="50%">
 <a ><img src="assets/said_logo.png" alt="SAID-logo" style="width: 50%; margin: auto;"></a>
 </p>
 
@@ -19,8 +19,8 @@ The train and test dataset are composed from detector features. For example, SAI
 
 The responses pair for human identification experiment in Table 3 is given in [pairs_zhihu](https://github.com/SLAM-group/SAID/blob/main/pairs_zhihu.xlsx). The human evaluation results are shown below:
 
-<p align="center" width="100%">
-<a ><img src="assets/table 3.png" alt="Ada-Instruct" style="width: 100%; margin: auto;"></a>
+<p align="center" width="70%">
+<a ><img src="assets/table 3.png" alt="Ada-Instruct" style="width: 70%; margin: auto;"></a>
 </p>
 
 For original SAID_zhihu dataset, you can download from [here](https://drive.google.com/drive/folders/1M2SwWS68kRnN36dkbTgxLvFWUjZqnRz7).
