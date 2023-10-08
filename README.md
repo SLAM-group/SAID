@@ -17,15 +17,21 @@ We create novel benchmark **SAID**(**S**ocial media **AI** **D**etection) for so
 
 The train and test dataset are composed from detector features. For example, SAID_quora_train is the training set on quora extracted by different detectors([SimpleAI](https://huggingface.co/Hello-SimpleAI), [MPU](https://xihe.mindspore.cn/modelzoo/text-detector), [GPT-Zero](https://gptzero.me/)), and SAID_quora_test is the test set on quora converted by those three detectors. 
 
+For original SAID_zhihu dataset, you can download from [here](https://drive.google.com/drive/folders/1M2SwWS68kRnN36dkbTgxLvFWUjZqnRz7).
+
+For original SAID_quora dataset, you can download from [here](https://drive.google.com/drive/folders/1A6er-AoQ0iZJGCq1KSvutB0pFWMUR9Zm).
+
+The statistics of those two datasets are shown below, we remove the duplicate question-answer pairs. Thus the statistics is a little bit different from table 1 of [SAID paper](https://openreview.net/attachment?id=THtX863Io2&name=pdf).
+
+<p align="center" width="50%">
+<a ><img src="assets/table 1.png" alt="Ada-Instruct" style="width: 70%; margin: auto;"></a>
+</p>
+
 The responses pair for human identification experiment in Table 3 is given in [pairs_zhihu](https://github.com/SLAM-group/SAID/blob/main/pairs_zhihu.xlsx). The human evaluation results are shown below:
 
 <p align="center" width="70%">
 <a ><img src="assets/table 3.png" alt="Ada-Instruct" style="width: 70%; margin: auto;"></a>
 </p>
-
-For original SAID_zhihu dataset, you can download from [here](https://drive.google.com/drive/folders/1M2SwWS68kRnN36dkbTgxLvFWUjZqnRz7).
-
-For original SAID_quora dataset, you can download from [here](https://drive.google.com/drive/folders/1A6er-AoQ0iZJGCq1KSvutB0pFWMUR9Zm).
 
 # Experimental results
 
