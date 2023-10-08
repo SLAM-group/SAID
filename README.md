@@ -1,11 +1,13 @@
-##SAID
+## SAID
+
 # <div align="center">A Benchmark For Social Media AI Detection. </div>
+
  [Who Said That? Benchmarking Social Media
 AI Detection](https://openreview.net/attachment?id=THtX863Io2&name=pdf)
 
 We create datasets for social media AI detection, and upload the train and test set for this repo. The train and test dataset are composed from detector features.
 
-The responses pair for human identifyting experiment in Table 3 is given in [pairs_zhihu](https://github.com/SLAM-group/SAID/blob/main/pairs_zhihu.xlsx)
+The responses pair for human identification experiment in Table 3 is given in [pairs_zhihu](https://github.com/SLAM-group/SAID/blob/main/pairs_zhihu.xlsx)
 
 For SAID_zhihu dataset, you can download from [here](https://drive.google.com/drive/folders/1M2SwWS68kRnN36dkbTgxLvFWUjZqnRz7).
 
