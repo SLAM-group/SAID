@@ -11,7 +11,7 @@ AI Detection](https://openreview.net/attachment?id=THtX863Io2&name=pdf)
 
 ## <a id="overview"></a>Overview
 
-We create datasets for social media AI detection, and upload the train and test set for this repo. The train and test dataset are composed from detector features.
+We create novel benchmark **SAID**(**S**ocial media **AI** **D**etection), which is used for social media AI detection. Unlike existing benchmarks, it incorporates real AI-generate text from popular social media platforms like Zhihu and Quora, and deals with content that reflects the sophisticated strategies employed by real AI users on the Internet which may evade detection or gain visibility, providing a more realistic and challenging evaluation landscape. The train and test dataset are composed from detector features.
 
 The responses pair for human identification experiment in Table 3 is given in [pairs_zhihu](https://github.com/SLAM-group/SAID/blob/main/pairs_zhihu.xlsx)
 
