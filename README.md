@@ -21,7 +21,7 @@ For original SAID_zhihu dataset, you can download from [here](https://drive.goog
 
 For original SAID_quora dataset, you can download from [here](https://drive.google.com/drive/folders/1A6er-AoQ0iZJGCq1KSvutB0pFWMUR9Zm).
 
-The statistics of those two datasets are shown below, we remove the duplicate question-answer pairs. Thus the statistics is a little bit different from table 1 of [SAID paper](https://openreview.net/attachment?id=THtX863Io2&name=pdf).
+The statistics of those two datasets are shown below, we remove the duplicate question-answer pairs. Thus the statistics are a little bit different from table 1 of [SAID paper](https://openreview.net/attachment?id=THtX863Io2&name=pdf).
 
 <p align="center" width="50%">
 <a ><img src="assets/table 1.png" alt="Ada-Instruct" style="width: 70%; margin: auto;"></a>
