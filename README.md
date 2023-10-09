@@ -29,7 +29,7 @@ The statistics of those two datasets are shown below
 
 ## Train set and Test set 
 
-The train and test dataset are composed from detector features extracted by different detectors on original SAID dataset. For example, SAID_quora_train is the training set on quora extracted by different detectors([SimpleAI](https://huggingface.co/Hello-SimpleAI), [MPU](https://xihe.mindspore.cn/modelzoo/text-detector), [GPT-Zero](https://gptzero.me/)), and SAID_quora_test is the test set on quora converted by those three detectors.
+The train and test dataset are composed from detector features extracted by different detectors on original SAID subset. For example, SAID_quora_train is the training set on quora extracted by different detectors([SimpleAI](https://huggingface.co/Hello-SimpleAI), [MPU](https://xihe.mindspore.cn/modelzoo/text-detector), [GPT-Zero](https://gptzero.me/)), and SAID_quora_test is the test set on quora converted by those three detectors.
 
 ## Responses pairs for human identification
 
