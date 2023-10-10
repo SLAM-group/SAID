@@ -2,9 +2,7 @@
 <a ><img src="assets/said_logo_2.png" alt="SAID-logo" style="width: 60%; margin: auto;"></a>
 </p>
 
-# SAID
-
-# <div align="center">A Benchmark For Social Media AI Detection. </div>
+# SAID: A Benchmark For Social Media AI Detection.
 
 This is the repository for [Who Said That? Benchmarking Social Media
 AI Detection](https://openreview.net/attachment?id=THtX863Io2&name=pdf)
