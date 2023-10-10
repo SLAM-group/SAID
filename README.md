@@ -45,6 +45,10 @@ The statistics of those two datasets are shown below
 
 ### Example of quora human
 
+| question                                                                                                                                                                      | answer                                                                                                                                                                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Does light come out of stars at an infinite number of angles? Is that why two people standing next to each other are able to see the same star thousands of light years away? | Well, there aren’t an infinite number of photons. But that finite number of photons are spread randomly around a continuous sphere, not fixed to discrete angles. So yes, that’s why light from the same star can reach both you and another person, no matter how tiny the angle between you. |
+
 ## Train set and Test set 
 
 The train and test dataset are composed from detector features extracted by different detectors on original SAID subset. For example, SAID_quora_train is the training set on quora extracted by different detectors([SimpleAI](https://huggingface.co/Hello-SimpleAI), [MPU](https://xihe.mindspore.cn/modelzoo/text-detector), [GPT-Zero](https://gptzero.me/)), and SAID_quora_test is the test set on quora converted by those three detectors.
