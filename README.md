@@ -25,6 +25,14 @@ The statistics of those two datasets are shown below
 <a ><img src="assets/table 1.png" alt="Ada-Instruct" style="width: 70%; margin: auto;"></a>
 </p>
 
+### Example of zhihu ai
+
+### Example of zhihu human
+
+### Example of quora ai
+
+### Example of quora human
+
 ## Train set and Test set 
 
 The train and test dataset are composed from detector features extracted by different detectors on original SAID subset. For example, SAID_quora_train is the training set on quora extracted by different detectors([SimpleAI](https://huggingface.co/Hello-SimpleAI), [MPU](https://xihe.mindspore.cn/modelzoo/text-detector), [GPT-Zero](https://gptzero.me/)), and SAID_quora_test is the test set on quora converted by those three detectors.
