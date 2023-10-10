@@ -1,5 +1,5 @@
-<p align="center" width="30%">
-<a ><img src="assets/said_logo_2.png" alt="SAID-logo" style="width: 30%; margin: auto;"></a>
+<p align="center" width="60%">
+<a ><img src="assets/said_logo_2.png" alt="SAID-logo" style="width: 60%; margin: auto;"></a>
 </p>
 
 # SAID
