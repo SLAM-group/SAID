@@ -15,11 +15,13 @@ We create novel benchmark **SAID**(**S**ocial media **AI** **D**etection) for so
 
 ## SAID-Quora and SAID-Zhihu
 
-For original SAID_zhihu dataset, you can download from [here](https://drive.google.com/drive/folders/1M2SwWS68kRnN36dkbTgxLvFWUjZqnRz7).
+For original SAID_zhihu dataset, it is divided into two datasets, zhihu_ai and zhihu_human, you can download them from [here](https://drive.google.com/drive/folders/1M2SwWS68kRnN36dkbTgxLvFWUjZqnRz7).
 
-For original SAID_quora dataset, you can download from [here](https://drive.google.com/drive/folders/1A6er-AoQ0iZJGCq1KSvutB0pFWMUR9Zm).
+For original SAID_quora dataset, it is divided into two datasets, zhihu_ai and zhihu_human, you can download them from [here](https://drive.google.com/drive/folders/1A6er-AoQ0iZJGCq1KSvutB0pFWMUR9Zm).
 
-The statistics of those two datasets are shown below
+We provide the statistics and examples of those datasets.
+
+### Statistics of SAID
 
 <p align="center" width="50%">
 <a ><img src="assets/table 1.png" alt="Ada-Instruct" style="width: 70%; margin: auto;"></a>
