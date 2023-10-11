@@ -9,7 +9,7 @@ AI Detection](https://openreview.net/attachment?id=THtX863Io2&name=pdf)
 
 ## <a id="overview"></a>Overview
 
-We create novel benchmark **SAID**(**S**ocial media **AI** **D**etection) for social media AI detection. Unlike existing benchmarks, it incorporates real AI-generate text from popular social media platforms like Zhihu and Quora, and deals with content that reflects the sophisticated strategies employed by real AI users on the Internet which may evade detection or gain visibility, providing a more realistic and challenging evaluation landscape. 
+We create novel benchmark **SAID**(**S**ocial media **AI** **D**etection) for social media AI detection. Unlike existing benchmarks, it incorporates **real** AI-generate text from popular social media platforms like Zhihu and Quora, and deals with content that reflects the sophisticated strategies employed by real AI users on the Internet which may evade detection or gain visibility, providing a more realistic and challenging evaluation landscape. 
 
 # Dataset Info
 
